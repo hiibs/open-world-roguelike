@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Godot Projects\\Roguelike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\elk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:elk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\reagenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:reagenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|c:\\godot projects\\roguelike\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D943EEE-2223-498A-B263-9020375F94D0}|Roguelike.csproj|solutionrelative:entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMaster.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\GameMaster.cs",
+              "RelativeDocumentMoniker": "GameMaster.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\GameMaster.cs",
+              "RelativeToolTip": "GameMaster.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:23:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReagentType.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\ReagentType.cs",
+              "RelativeDocumentMoniker": "ReagentType.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\ReagentType.cs",
+              "RelativeToolTip": "ReagentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:19:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\PlayerController.cs",
+              "RelativeDocumentMoniker": "PlayerController.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\PlayerController.cs",
+              "RelativeToolTip": "PlayerController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:09:31.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elk.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\Elk.cs",
+              "RelativeDocumentMoniker": "Elk.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\Elk.cs",
+              "RelativeToolTip": "Elk.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:06:15.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:03:10.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\Entity.cs",
+              "RelativeDocumentMoniker": "Entity.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\Entity.cs",
+              "RelativeToolTip": "Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:03:01.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\GODOT PROJECTS\\ROGUELIKE\\NPC.cs",
+              "RelativeDocumentMoniker": "NPC.cs",
+              "ToolTip": "C:\\GODOT PROJECTS\\ROGUELIKE\\NPC.cs",
+              "RelativeToolTip": "NPC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:02:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Godot Projects\\Roguelike\\Grid.cs",
+              "RelativeDocumentMoniker": "Grid.cs",
+              "ToolTip": "C:\\Godot Projects\\Roguelike\\Grid.cs",
+              "RelativeToolTip": "Grid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:49:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
